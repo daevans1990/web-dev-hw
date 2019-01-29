@@ -1,0 +1,19 @@
+Q: How is the web different than the internet?
+
+A: The internet is essentially a massive network of networks that allows computers all over the planet to communicate with each other. The web is a system of websites and pages that uses the internet to transfer data. 
+
+Q: Briefly describe how the internet works. (“Magic”)
+
+A: The internet is a network of computers and servers connected via wires (fiber optic, copper, etc.). Computers connected to the network can then access data on other servers through an internet service provider or ISP. 
+
+Q: What is a directory, and what is its relationship to files?
+
+A: Directories are folders that contain all the files of a webpage. The path to these files can be seen in the URL. 
+
+Q: Why is using a VCS beneficial?
+
+A: Version control systems like Github are beneficial because they allow you to track any changes you’ve made to your project. You can also revert back to previous versions of your project and are able to share it with others. 
+
+Q: State at least one thing you found interesting about this topic, or that you didn’t know before.
+
+A: I know it was a small part of the assignment, but I thought seeing the real-time emoji tracker was pretty cool and sort of shocking. I knew people loved emojis but not this much. 
