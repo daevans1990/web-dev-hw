@@ -1,12 +1,9 @@
-# Heading 1
-## Heading 2
-### Heading 3
+# Assignment 2
 
-I am a paragraph. I may be several sentences long, and you'll have to scroll to the right to see me.
-
-That's tedious. Turn on the text wrapping feature by going to View > Toggle Soft Wrap.
-
-Problem solved!
+I decided to take this class to better understand web-development and make myself a more diverse internet journalist.
+1. I learned that, although the language is different, the basic structure of the internet is fairly simple.
+2. I hope to learn more about design and how to build efficient websites.
+3. I also hope to learn enough to one day run my own freelance journalism website.
 
 [Course Website](https://intro-web-dev.media-ed-online.com)
 
