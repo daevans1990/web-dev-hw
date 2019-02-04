@@ -1,1 +1,11 @@
-My Responses:
+David Evans
+Assignment 2 Responses
+2/4/2019
+
+*Data travels on the internet in the form of binary code. The code is sent using electricity (copper wires), light (fiber optic cable), or radio waves (wireless). The data is broken down into packets and directed by routers from the host to the destination via IP addresses.
+
+*An IP address is an address assigned to a computer while a DNS is a service that converts a domain name into an IP address so people can reach your website without having to memorize the IP address.
+
+*A cookie is a packet of data used to identify or track user’s access to the server.
+
+*The three basic parts of a URL are: The protocol (http://), the domain (example.com), and the directory/subdirectory.
