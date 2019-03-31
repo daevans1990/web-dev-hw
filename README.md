@@ -7,5 +7,6 @@
       <p><a href="assignment-03">Assignment-03</a></p>
       <p><a href="assignment-04">Assignment-04</a></p>
       <p><a href="Assignment-05">Assignment-05</a></p>
+      <p><a href="assignment-06">Assignment-06</a></p>
     </body>
 </html>
